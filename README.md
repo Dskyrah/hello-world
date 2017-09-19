@@ -2,3 +2,4 @@
 new-beginning
 
 ggg
+slave
